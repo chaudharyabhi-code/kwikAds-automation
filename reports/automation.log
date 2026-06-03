@@ -1,0 +1,106 @@
+[2026-06-02 13:17:03] [32minfo[39m: [gokwik-login] localStorage keys: [IsInstallModalVisible, currentPage, email, chatButtonPosition]
+[2026-06-02 13:17:03] [32minfo[39m: [gokwik-login] State snapshot saved → /home/abhishek/Abhishek/Kwikads-automation-main/gokwik.state.json
+[2026-06-02 13:17:03] [32minfo[39m: [gokwik-login] Persistent profile → /home/abhishek/Abhishek/Kwikads-automation-main/gokwik-profile
+[2026-06-02 13:19:09] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:19:09] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:19:10] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:19:10] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:19:12] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:19:14] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:19:34] [32minfo[39m: Browser closed
+[2026-06-02 13:19:35] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:19:35] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:19:35] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:19:35] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:19:37] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:19:38] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:19:41] [32minfo[39m: Browser closed
+[2026-06-02 13:19:41] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:19:41] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:19:42] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:19:42] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:19:43] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:19:45] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:19:46] [32minfo[39m: Browser closed
+[2026-06-02 13:19:47] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:19:47] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:19:47] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:19:47] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:19:49] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:19:50] [32minfo[39m: Browser closed
+[2026-06-02 13:24:43] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:24:43] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:24:43] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:24:43] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:24:45] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:24:46] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:27:44] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:27:44] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:27:44] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:27:44] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:27:46] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:27:47] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:30:10] [32minfo[39m: Browser closed
+[2026-06-02 13:30:11] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:30:11] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:30:11] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:30:11] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:30:13] [33mwarn[39m: Meta session expired or profile is new — starting interactive login (2FA required once)
+[2026-06-02 13:30:14] [32minfo[39m: Credentials submitted — waiting for 2FA...
+[2026-06-02 13:30:38] [32minfo[39m: Browser closed
+[2026-06-02 13:30:39] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 13:30:39] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 13:30:39] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 13:30:39] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 13:30:41] [32minfo[39m: Browser closed
+[2026-06-02 13:37:19] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:37:24] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:01] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:01] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=false
+[2026-06-02 13:38:03] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=false apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:03] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=true
+[2026-06-02 13:38:06] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:10] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:10] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=false
+[2026-06-02 13:38:13] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=false apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 13:38:13] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=true
+[2026-06-02 13:38:15] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-02 16:48:10] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:10] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:15] [33mwarn[39m: Request failed (status=network), retrying in 1000ms [1/2]
+[2026-06-02 16:48:17] [33mwarn[39m: Request failed (status=network), retrying in 2000ms [2/2]
+[2026-06-02 16:48:21] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:21] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:22] [33mwarn[39m: Request failed (status=network), retrying in 1000ms [1/2]
+[2026-06-02 16:48:23] [33mwarn[39m: Request failed (status=network), retrying in 2000ms [2/2]
+[2026-06-02 16:48:27] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:27] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:31] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:48:31] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:48:31] [32minfo[39m: Browser closed
+[2026-06-02 16:48:32] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:32] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:33] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:48:33] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:48:33] [32minfo[39m: Browser closed
+[2026-06-02 16:48:49] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:49] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:49] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:48:49] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:48:49] [32minfo[39m: Browser closed
+[2026-06-02 16:48:51] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:51] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:52] [33mwarn[39m: Request failed (status=network), retrying in 1000ms [1/2]
+[2026-06-02 16:48:53] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:48:53] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:48:53] [32minfo[39m: Browser closed
+[2026-06-02 16:48:55] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:48:55] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:48:58] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:48:58] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:48:58] [32minfo[39m: Browser closed
+[2026-06-02 16:49:00] [32minfo[39m: Starting benchmark run — merchant: 19g6hlyr50n6j, account: act_1543438996237925
+[2026-06-02 16:49:00] [32minfo[39m: Fetching benchmark data — merchants: [19g6hlyr50n6j], metrics: [spend, cpm, ctr, roas]
+[2026-06-02 16:49:00] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
+[2026-06-02 16:49:00] [32minfo[39m: API data fetched for Creare X Unrush
+[2026-06-02 16:49:00] [32minfo[39m: Browser closed
