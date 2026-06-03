@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Astro Store",
+    "handle": "astro-store-9980",
+    "adminUrl": "https://admin.shopify.com/store/astro-store-9980"
+  },
+  {
+    "name": "Automation-Store",
+    "handle": "automation-store-dblyjb4a",
+    "adminUrl": "https://admin.shopify.com/store/automation-store-dblyjb4a"
+  },
+  {
+    "name": "Automation-Store",
+    "handle": "automation-store-f1s5vhzk",
+    "adminUrl": "https://admin.shopify.com/store/automation-store-f1s5vhzk"
+  },
+  {
+    "name": "Prnab_test",
+    "handle": "prnab-test",
+    "adminUrl": "https://admin.shopify.com/store/prnab-test"
+  },
+  {
+    "name": "Som-qa-store",
+    "handle": "som-qa-store",
+    "adminUrl": "https://admin.shopify.com/store/som-qa-store"
+  },
+  {
+    "name": "Som-qa-store-1",
+    "handle": "som-qa-store-1",
+    "adminUrl": "https://admin.shopify.com/store/som-qa-store-1"
+  },
+  {
+    "name": "Test-Store",
+    "handle": "test-store-1100000000000000000000000000000004941",
+    "adminUrl": "https://admin.shopify.com/store/test-store-1100000000000000000000000000000004941"
+  }
+]

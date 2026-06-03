@@ -1,0 +1,35 @@
+{
+  "name": "kwikads_automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "meta:login": "ts-node src/scripts/meta-login.ts",
+    "gokwik:login": "ts-node src/scripts/gokwik-login.ts",
+    "gokwik:keepalive": "ts-node src/scripts/gokwik-keepalive.ts",
+    "shopify:login": "ts-node src/scripts/shopify-partner-login.ts",
+    "shopify:scrape-stores": "ts-node src/scripts/scrape-shopify-stores.ts",
+    "shopify:observe": "ts-node src/scripts/shopify-observe.ts",
+    "gkadmin:login": "ts-node src/scripts/gk-admin-login.ts",
+    "storefront:login": "ts-node src/scripts/storefront-login.ts",
+    "login:all":        "ts-node src/scripts/login-all.ts",
+    "login:force":      "ts-node src/scripts/login-all.ts --force",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "report": "playwright show-report reports/html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@playwright/test": "^1.58.2",
+    "axios": "^1.13.6",
+    "dotenv": "^17.3.1",
+    "typescript": "^5.9.3",
+    "winston": "^3.19.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2"
+  }
+}
