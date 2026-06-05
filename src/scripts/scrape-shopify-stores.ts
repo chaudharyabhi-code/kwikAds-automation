@@ -19,8 +19,8 @@
 
 import fs from 'fs';
 import path from 'path';
-import { ShopifyPartnerAuthManager } from '../core/shopify-partner-auth/ShopifyPartnerAuthManager';
-import { logger } from '../core/utils/logger';
+import { ShopifyPartnerAuthManager } from '../auth/ShopifyPartnerAuthManager';
+import { logger } from '../utils/logger';
 
 const STORES_DASHBOARD_URL = 'https://dev.shopify.com/dashboard/129006046/stores';
 const OUTPUT_PATH = path.resolve(__dirname, '../testdata/shopifyStores.json');

@@ -11,7 +11,7 @@ dotenv.config({ path: path.resolve(__dirname, '.env') });
 process.env['LOG_LEVEL'] = process.env['LOG_LEVEL'] ?? 'info';
 
 export default defineConfig({
-  testDir: './src',
+  testDir: './src/tests',
   timeout:  90_000,
   retries:  1,
   // workers:1 — all browser specs use persistent Chromium profiles which require

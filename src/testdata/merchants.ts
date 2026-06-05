@@ -66,7 +66,7 @@ export const ALL_MERCHANTS: MerchantConfig[] = [
     name:        'Macrame Cords Pari',
     merchantId:  '19g6im7uxama1',
     adAccountId: 'act_1247455895764678',
-    tags:        ['@meta-benchmark', '@regression'],
+    tags:        ['@meta-benchmark','@kwikads-toggle', '@regression'],
   },
   {
     name:        'Raho Saada',

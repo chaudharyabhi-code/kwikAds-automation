@@ -26,7 +26,7 @@ import { stdin, stdout } from 'process';
 import {
   GkAdminAuthManager,
   type StoreResult,
-} from '../core/gk-admin-auth/GkAdminAuthManager';
+} from '../auth/GkAdminAuthManager';
 import * as Stores from '../testdata/shopifyStoreslist';
 import type { ShopifyStore } from '../testdata/shopifyStoreslist';
 
@@ -34,7 +34,7 @@ import type { ShopifyStore } from '../testdata/shopifyStoreslist';
 // (stale cache, transpile quirk), fall back to an empty list rather than
 // crashing on `.length`.
 const SHOPIFY_STORES: ShopifyStore[] = Stores.SHOPIFY_STORES ?? Stores.loadShopifyStores?.() ?? [];
-import { logger } from '../core/utils/logger';
+import { logger } from '../utils/logger';
 
 const REPORTS_DIR = path.resolve(__dirname, '../../reports');
 const BOOTSTRAP_REPORT_PATH = path.join(REPORTS_DIR, 'gkadmin-bootstrap.json');

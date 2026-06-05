@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Environment — credentials, never commit
+.env
+.env.local
+.env.*.local
+
+
+# Playwright output
+test-results/
+playwright-report/
+reports/html/
+
+# TypeScript build artifacts (sourceMap + declaration files from tsconfig)
+**/*.js.map
+**/*.d.ts
+**/*.d.ts.map
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
