@@ -23,7 +23,7 @@
 
 import { spawnSync }  from 'child_process';
 import path           from 'path';
-import { checkAllSessions, type SessionStatus, type SessionKind } from '../core/auth/SessionChecker';
+import { checkAllSessions, type SessionStatus, type SessionKind } from '../auth/SessionChecker';
 import { loadShopifyStores } from '../testdata/shopifyStoreslist';
 
 const FORCE   = process.argv.includes('--force');

@@ -28,10 +28,10 @@
  */
 
 import { chromium, Page }            from '@playwright/test';
-import { GokwikSessionStore }        from '../core/gokwik-auth/GokwikSessionStore';
+import { GokwikSessionStore }        from '../auth/GokwikSessionStore';
 import { envConfig }                 from '../config/env.config';
-import { logger }                    from '../core/utils/logger';
-import { tryClickGoogleAccount }     from '../core/auth/GoogleSSOHelper';
+import { logger }                    from '../utils/logger';
+import { tryClickGoogleAccount }     from '../auth/GoogleSSOHelper';
 
 const DASHBOARD_URL  = envConfig.kwikAiDashboardUrl;
 const API_BASE_URL   = envConfig.kwikAiBaseUrl;

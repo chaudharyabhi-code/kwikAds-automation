@@ -16,8 +16,8 @@
  * Meta explicitly logs you out or you manually delete the meta-profile/ directory.
  */
 
-import { MetaAuthManager } from '../core/meta-scraper/MetaAuthManager';
-import { logger } from '../core/utils/logger';
+import { MetaAuthManager } from '../auth/MetaAuthManager';
+import { logger } from '../utils/logger';
 
 async function main(): Promise<void> {
   console.log('\n========================================');

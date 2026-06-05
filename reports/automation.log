@@ -104,3 +104,25 @@
 [2026-06-02 16:49:00] [32minfo[39m: Benchmark data fetched — 1 merchant(s) returned
 [2026-06-02 16:49:00] [32minfo[39m: API data fetched for Creare X Unrush
 [2026-06-02 16:49:00] [32minfo[39m: Browser closed
+[2026-06-03 12:09:59] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:10:03] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:10:15] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:10:19] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:17:51] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:17:51] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=false
+[2026-06-03 12:17:54] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=false apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:17:54] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=true
+[2026-06-03 12:17:56] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:18:00] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:18:00] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=false
+[2026-06-03 12:18:03] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=false apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 12:18:03] [32minfo[39m: [kwikads-platforms] PATCH https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1/m/op6/59 merchantId=4bzi40ahksbqurl7 → isActive=true
+[2026-06-03 12:18:05] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:25:41] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:25:46] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:26:15] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:29:06] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:32:45] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:33:52] [32minfo[39m: [kwikads-platforms] adAccountId=act_1035682277234487 id=59 isActive=true apiBase=https://api-gw-v4.dev.gokwik.in/qa/ka/api/v1
+[2026-06-03 13:57:00] [31merror[39m: [storefront-login] Failed: page.waitForTimeout: Target page, context or browser has been closed
+[2026-06-03 13:57:25] [31merror[39m: [storefront-login] Failed: page.waitForTimeout: Target page, context or browser has been closed

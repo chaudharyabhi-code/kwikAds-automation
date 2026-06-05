@@ -28,10 +28,10 @@ import readline from 'readline/promises';
 import { stdin, stdout } from 'process';
 import type { Page, Request, Frame } from '@playwright/test';
 
-import { ShopifyPartnerAuthManager } from '../core/shopify-partner-auth/ShopifyPartnerAuthManager';
+import { ShopifyPartnerAuthManager } from '../auth/ShopifyPartnerAuthManager';
 import * as Stores from '../testdata/shopifyStoreslist';
 import type { ShopifyStore } from '../testdata/shopifyStoreslist';
-import { logger } from '../core/utils/logger';
+import { logger } from '../utils/logger';
 
 const SHOPIFY_STORES: ShopifyStore[] = Stores.SHOPIFY_STORES ?? Stores.loadShopifyStores?.() ?? [];
 

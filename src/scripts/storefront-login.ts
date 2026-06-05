@@ -27,13 +27,13 @@
 import readline from 'readline/promises';
 import { stdin, stdout } from 'process';
 import { chromium } from '@playwright/test';
-import { StorefrontSessionStore } from '../core/storefront/StorefrontSessionStore';
+import { StorefrontSessionStore } from '../auth/StorefrontSessionStore';
 import * as Stores from '../testdata/shopifyStoreslist';
 import type { ShopifyStore } from '../testdata/shopifyStoreslist';
 import { envConfig } from '../config/env.config';
-import { logger } from '../core/utils/logger';
-import { tryClickGoogleAccount } from '../core/auth/GoogleSSOHelper';
-import { StorefrontPage, type StorefrontEvent } from '../core/storefront/StorefrontPage';
+import { logger } from '../utils/logger';
+import { tryClickGoogleAccount } from '../auth/GoogleSSOHelper';
+import { StorefrontPage, type StorefrontEvent } from '../pages/StorefrontPage';
 
 const SHOPIFY_STORES: ShopifyStore[] = Stores.SHOPIFY_STORES ?? Stores.loadShopifyStores?.() ?? [];
 const PASSWORD_GATE_PATTERN = /\/password(\?|$)/;

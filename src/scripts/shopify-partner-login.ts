@@ -18,8 +18,8 @@
  * the session or the profile directory is deleted.
  */
 
-import { ShopifyPartnerAuthManager } from '../core/shopify-partner-auth/ShopifyPartnerAuthManager';
-import { logger } from '../core/utils/logger';
+import { ShopifyPartnerAuthManager } from '../auth/ShopifyPartnerAuthManager';
+import { logger } from '../utils/logger';
 
 async function main(): Promise<void> {
   console.log('\n========================================');

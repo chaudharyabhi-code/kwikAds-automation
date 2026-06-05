@@ -22,10 +22,10 @@
 
 import https  from 'https';
 import { chromium, Page } from '@playwright/test';
-import { GokwikSessionStore }    from '../core/gokwik-auth/GokwikSessionStore';
+import { GokwikSessionStore }    from '../auth/GokwikSessionStore';
 import { envConfig }             from '../config/env.config';
-import { tryClickGoogleAccount } from '../core/auth/GoogleSSOHelper';
-import { logger }                from '../core/utils/logger';
+import { tryClickGoogleAccount } from '../auth/GoogleSSOHelper';
+import { logger }                from '../utils/logger';
 
 const DASHBOARD_URL  = envConfig.kwikAiDashboardUrl || 'https://qa-mdashboard.dev.gokwik.in';
 const API_BASE       = envConfig.kwikAiBaseUrl       || 'https://api-gw-v4.dev.gokwik.in';
